@@ -1,0 +1,102 @@
+{
+	"203.104.209.71": {
+		"num": 1,
+		"name": "Distrito Naval Yokosuka",
+		"ip": "203.104.209.71"
+	},
+	"125.6.184.15": {
+		"num": 2,
+		"name": "Distrito Naval Kure",
+		"ip": "125.6.184.15"
+	},
+	"125.6.184.16": {
+		"num": 3,
+		"name": "Distrito Naval Sasebo",
+		"ip": "125.6.184.16"
+	},
+	"125.6.187.205": {
+		"num": 4,
+		"name": "Distrito Naval Maizuru",
+		"ip": "125.6.187.205"
+	},
+	"125.6.187.229": {
+		"num": 5,
+		"name": "Distrito de Guarda Ominato",
+		"ip": "125.6.187.229"
+	},
+	"125.6.187.253": {
+		"num": 6,
+		"name": "Ancoradouro Truk",
+		"ip": "125.6.187.253"
+	},
+	"125.6.188.25": {
+		"num": 7,
+		"name": "Ancoradouro Lingga",
+		"ip": "125.6.188.25"
+	},
+	"203.104.248.135": {
+		"num": 8,
+		"name": "Base Naval Rabaul",
+		"ip": "203.104.248.135"
+	},
+	"125.6.189.7": {
+		"num": 9,
+		"name": "Ancoradouro Shortland",
+		"ip": "125.6.189.7"
+	},
+	"125.6.189.39": {
+		"num": 10,
+		"name": "Base Naval Buin",
+		"ip": "125.6.189.39"
+	},
+	"125.6.189.71": {
+		"num": 11,
+		"name": "Ancoradouro Tawi-Tawi",
+		"ip": "125.6.189.71"
+	},
+	"125.6.189.103": {
+		"num": 12,
+		"name": "Ancoradouro Palau",
+		"ip": "125.6.189.103"
+	},
+	"125.6.189.135": {
+		"num": 13,
+		"name": "Ancoradouro Brunei",
+		"ip": "125.6.189.135"
+	},
+	"125.6.189.167": {
+		"num": 14,
+		"name": "Ancoradouro Baía de Hitokappu",
+		"ip": "125.6.189.167"
+	},
+	"125.6.189.215": {
+		"num": 15,
+		"name": "Ancoradouro Paramushir",
+		"ip": "125.6.189.215"
+	},
+	"125.6.189.247": {
+		"num": 16,
+		"name": "Ancoradouro Baía de Sukumo",
+		"ip": "125.6.189.247"
+	},
+	"203.104.209.23": {
+		"num": 17,
+		"name": "Aeródromo de Kanoya",
+		"ip": "203.104.209.23"
+	},
+	"203.104.209.39": {
+		"num": 18,
+		"name": "Aeródromo de Iwagawa",
+		"ip": "203.104.209.39"
+	},
+	"203.104.209.55": {
+		"num": 19,
+		"name": "Ancoradouro Baía de Saiki",
+		"ip": "203.104.209.55"
+	},
+	"203.104.209.102": {
+		"num": 20,
+		"name": "Ancoradouro Hashirajima",
+		"ip": "203.104.209.102"
+	}
+}
